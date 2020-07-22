@@ -11,6 +11,8 @@ Alias for your Linux server, list of populair shortcuts to manage your servers f
 After install.sh you can run all these commands on your server/terminal
 
 ## OS Shortcuts
+Shortcuts to manage and update your OS
+
 
 update OS  (yum update):  `update-os`  
 
