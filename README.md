@@ -3,7 +3,9 @@ Alias for your Linux server, list of populair shortcuts to manage your servers f
 
 # Installguide
 `wget install.sh`
+
 `chmod install.sh`
+
 `bash install.sh`
 
 
