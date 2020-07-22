@@ -12,6 +12,8 @@ After install.sh you can run all these commands on your server/terminal
 
 ## OS Shortcuts
 
-update OS  (yum update)
+update OS  (yum update):  `update-os`  
 
-`update-os`  
+
+## Error logs Shortcuts
+MySQL errors  (tail -n 50 /var/lib/mysql/*.err):  `mysql-error-log` 
