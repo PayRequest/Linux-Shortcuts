@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Directadmin
 alias update-da="cd /usr/local/directadmin/custombuild && ./build update && ./build versions"
 
@@ -5,12 +7,14 @@ alias update-da="cd /usr/local/directadmin/custombuild && ./build update && ./bu
 
 
 
-
 # OS
-alias -update-os "yum update"
+echo "alias -update-os "yum update"" 
 
 
 
+
+# Finish
+echo "Linux Shortcuts is installed!" 
 
 
 
