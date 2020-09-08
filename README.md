@@ -1,5 +1,5 @@
-# Alias Linux Shortcuts
-Alias for your Linux server, list of populair shortcuts to manage your servers faster
+# Linux Shortcuts (Alias)
+With Linux Shortcuts you can create and run Alias for your Linux server, list of populair shortcuts to manage your servers faster
 
 # Installguide
 `wget install.sh`
