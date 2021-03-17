@@ -2,11 +2,11 @@
 With Linux Shortcuts you can create and run Alias for your Linux server, list of populair shortcuts to manage your servers faster
 
 # Installguide
-`wget install.sh`
+`wget https://raw.githubusercontent.com/PayRequest/Linux-Shortcuts/master/linux-shortcuts.env`
 
-`chmod install.sh`
+`chmod 775 install.sh`
 
-`bash install.sh`
+`source linux-shortcuts.env`
 
 
 # Cheatsheets Alias Linux Shortcuts
